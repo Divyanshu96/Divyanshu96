@@ -101,7 +101,7 @@
 
 ---
 
-##  What I'm Learning
+##  What I'm currently learning
 
 - ☕ Java Collections
 - 🧪 REST Assured Framework
